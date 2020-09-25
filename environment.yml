@@ -1,0 +1,14 @@
+name: pymcon
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - notebook
+  - pymc3
+  - arviz
+  - pandas
+  - numpy
+  - jupyter_contrib_nbextensions
+  - seaborn
+prefix: /Users/tushar/miniconda3/envs/pymcon
+
