@@ -8,7 +8,6 @@ dependencies:
   - arviz
   - pandas
   - numpy
-  - jupyter_contrib_nbextensions
   - seaborn
 prefix: /Users/tushar/miniconda3/envs/pymcon
 
