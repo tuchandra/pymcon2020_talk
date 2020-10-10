@@ -14,3 +14,5 @@ They also include snippets of code (mostly plotting!) that didn't make it into t
 **Data**: There are two CSV files: `rates.csv` for the second model and `dragon_week.csv` for the third.
 
 **Other**: The `environment.yml` file can reproduce my conda environment in which I ran all of the code.
+
+Finally, find my slides [here](https://docs.google.com/presentation/d/1bvSrNqPjMwqISJWPYz8bgPIxvk0oU-1H26sxtmaOir4/edit?usp=sharing).
